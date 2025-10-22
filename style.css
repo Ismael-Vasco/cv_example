@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+body {
+    background-image: url("/home/coders/Documentos/hoja_vida/img/backgound/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header>.img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
