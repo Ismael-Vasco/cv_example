@@ -7,7 +7,7 @@ body {
 }
 
 body {
-    background-image: './img/backgound/background.jpg';
+    background-image: url("./img/backgound/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
